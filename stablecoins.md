@@ -1,5 +1,31 @@
 # Stablecoins
 
+## BTC
+
+**[Money on Chain](https://moneyonchain.com/)**
+
+## ETH
+
+**[Ampleforth](https://www.ampleforth.org/)**
+
+**[Augming](https://www.augmint.org/)** - цифровые токены к фиатной валютой.1 к 1 с евро
+
+**[DefiDollar](https://app.dusd.finance/)**
+
+**[Digix](https://digix.global/)** - 1 DGX - 1 грамм золота
+
+**[Empty Set Dollar](https://www.emptyset.finance/#/)**
+
+**[Gemeni Dollar](https://gemini.com/dollar/)**
+
+**[HUSD](https://www.stcoins.com/)**
+
+**[Paxos Standard](https://www.paxos.com/pax/)**
+
+**[pTokens](https://ptokens.io/)**
+
+**[TrueUSD](https://www.trusttoken.com/trueusd/)**
+
 **[ARCX](https://arcx.money/)** - протокол синтетических активов, который разблокирует ликвидность активов, приносящих процентный доход, с помощью своей собственной стабильной монеты STABLEx
 
 **[Basis Cash](https://app.basis.cash/)** - децентрализованный алгоритмический стейблкоин
@@ -19,3 +45,11 @@
 **[Reserve](https://www.reserve.org/)** - децентрализованный протокол стейблкоина
 
 **[USDx](https://dforce.network/)** - это децентрализованный синтетический стейблкоин. Базовые стейблкоины USDx включают USDC, TUSD и PAX.
+
+**[WBTC](https://www.wbtc.network/)** - обернутый ЕRC20 токен, обеспеченный Bitcoin
+
+
+## EOS
+
+**[EOSDT](https://eosdt.com/)**
+
