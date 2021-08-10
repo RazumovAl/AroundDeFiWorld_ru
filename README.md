@@ -122,37 +122,37 @@
 
 ### DeFi Staking Providers:
 
--**Yearn.Finance Vaults**
+**Yearn.Finance Vaults**
 
--**Aave**
+**Aave**
 
--**Compound**
+**Compound**
 
--**Lido Finance**
+**Lido Finance**
 
--**Curve (renBTC, Y, Compound, sUSD, BUSD и PAX)**
+**Curve (renBTC, Y, Compound, sUSD, BUSD и PAX)**
 
--**bZx**
+**bZx**
 
--**DDEX
+**DDEX**
 
--**dYdX
+**dYdX**
 
--**Anchor
+**Anchor**
 
--**Allnodes
+**Allnodes**
 
--**Everstake
+**Everstake**
 
--**InfStones
+**InfStones**
 
--**Staked
+**Staked**
 
--**stakefish
+**stakefish**
 
--**Chorus One
+**Chorus One**
 
--**Moonstake
+**Moonstake**
 
 №№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№
 ## Аналитические инструменты и сервисы:
