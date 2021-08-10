@@ -13,6 +13,7 @@
 
 **[Insurance](https://github.com/RazumovAl/AroundDeFiWorld_ru/blob/main/insurance.md)**
 
+**[DAO](https://github.com/RazumovAl/AroundDeFiWorld_ru/blob/main/dao.md)**
 
 ![image](https://user-images.githubusercontent.com/3718268/128806410-fc39d95e-f566-4b33-9a03-f1f4681868ef.png)
 
