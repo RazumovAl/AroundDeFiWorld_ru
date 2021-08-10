@@ -4,8 +4,11 @@
 !!! Прошу не обижаться, если вдруг вашего любимого сервиса нет - мы живем в изменчивом мире и много пропускается
 
 **[Lendings](https://github.com/RazumovAl/AroundDeFiWorld_ru/blob/main/lendings.md)**
+
 **[Stakings](https://github.com/RazumovAl/AroundDeFiWorld_ru/blob/main/stackings.md)**
+
 **[Analytics](https://github.com/RazumovAl/AroundDeFiWorld_ru/blob/main/analytics.md)**
+
 **[Stable Coins](https://github.com/RazumovAl/AroundDeFiWorld_ru/blob/main/stablecoins.md)**
 
 
