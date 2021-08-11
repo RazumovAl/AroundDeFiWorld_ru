@@ -11,8 +11,6 @@
 
 **[DeFi Saver](https://defisaver.com)** - тут комбайн всего
 
-**[Eidoo](https://eidoo.io/)** - **Вот прямо конфета** для мобилок и пк имхо. eth + btc. Ios, android. Линь и Винда
-
 **[Furucombo](https://furucombo.app/)**
 
 **[InstaDApp](https://instadapp.io/)** - eth+poly. сhrome-based browsers
