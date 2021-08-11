@@ -9,6 +9,8 @@
 
 **[Analytics](https://github.com/RazumovAl/AroundDeFiWorld_ru/blob/main/analytics.md)**
 
+**[Assets Control](https://github.com/RazumovAl/AroundDeFiWorld_ru/blob/main/assets_control.md)**
+
 **[Stable Coins](https://github.com/RazumovAl/AroundDeFiWorld_ru/blob/main/stablecoins.md)**
 
 **[Insurance](https://github.com/RazumovAl/AroundDeFiWorld_ru/blob/main/insurance.md)**
