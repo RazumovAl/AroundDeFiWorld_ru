@@ -94,6 +94,7 @@
 
 **[Yield Protocol](https://yieldprotocol.org/)** - протокол, предоставляющий обеспеченные фиксированные кредитные ставки а также рынок процентных ставок
 
+
 # Популярные лендинги на чейнах
 
 ## Polygon
@@ -102,15 +103,15 @@
 +**[C.R.E.A.M.](https://app.cream.finance/)** 
 +**[bZx](https://bzx.network/)** 
 +**[wePiggy](https://wepiggy.com)** 
-+**[MyConstant]()** 
-+**[Stater]()**
-+**[Royale]()**
-+**[Channels]()**
-+**[Taker]()**
-+**[easyfi]()**
-+**[ForTube]()**
-+**[Inverse Finance]()**
-+**[plasmafinance]()**
++**[MyConstant]** 
++**[Stater]**
++**[Royale]**
++**[Channels]**
++**[Taker]**
++**[easyfi](https://easyfi.network/)**
++**[ForTube]**
++**[Inverse Finance](https://inverse.finance/)**
++**[plasmafinance]**
 
 ## Solana
 +**[Oxygen](https://www.oxygen.org)**
@@ -119,43 +120,43 @@
 +**[Port](https://t.co/klocNW2iLw?amp=1)**
 +**[Jet](https://www.jetprotocol.io/)**
 +**[Solaris](https://solarisprotocol.com/)**
-+**[Larix]()**
++**[Larix]**
 +**[Solend](https://solend.fi/)**
 +**[Oyster Lending](https://github.com/solana-labs/oyster-lending)**
 
 ## Fantom
-+**[C.R.E.A.M.]()**
-+**[Aquarius]()**
-+**[Abracadabra.money]()**
-+**[liquity]()**
-+**[Scream]()**
-+**[Tarot]()**
++**[C.R.E.A.M.](https://app.cream.finance/)**
++**[Aquarius]**
++**[Abracadabra.money]**
++**[liquity]**
++**[Scream]**
++**[Tarot]**
 
 ## Avalnache
-+**[AAVE]()**
++**[AAVE](https://aave.com/)**
 +**[bZx](https://bzx.network/)**
-+**[BenQi]()**
-+**[Reef]()**
-+**[Bifrost]()**
-+**[Marginswap]()**
-+**[Avalanche-X]()**
++**[BenQi]**
++**[Reef]**
++**[Bifrost]**
++**[Marginswap]**
++**[Avalanche-X]**
 
 ## Near
-+**[DeFiner]()**
-+**[OIN]()**
-+**[Ruler]()**
++**[DeFiner]**
++**[OIN]**
++**[Ruler]**
 
 ## Polkadot
 +**[Acala](https://acala.network/)**
 +**[Relite](https://www.relite.finance/)**
 +**[Bandot](https://github.com/bandotio/unsecured-lending/tree/delegate)**
-+**[Konomi]()**
++**[Konomi]**
 
 ## Cardano
-+**[Meld]()**
-+**[AADA]()**
-+**[Liqwid]()**
-+**[Kitty Party]()**
++**[Meld]**
++**[AADA]**
++**[Liqwid]**
++**[Kitty Party]**
 
 ## BSC
 +**[C.R.E.A.M.](https://cream.finance/)**
@@ -167,22 +168,19 @@
 +**[Fortress](https://www.fortress.loans/)**
 +**[CashCow](https://bsc.cashcow.finance/)**
 +**[Multiplier](https://multiplier.finance/)**
-+**[Piggy]()**
++**[Piggy]**
 +**[FarSwap](https://bsc.farswap.finance/)**
-+**[easyfi]()**
-+**[Klend]()**
++**[easyfi](https://easyfi.network/)**
++**[Klend]**
 +**[wePiggy](https://wepiggy.com)**
-+**[UniLend]()**
++**[UniLend]**
 +**[Flux2](https://v2.flux.01.finance/)**
-+**[Defi For You]()**
-+**[#Dev]()**
++**[Defi For You]**
++**[#Dev]**
 +**[Alpaca Finance](https://www.alpacafinance.org/)**
 +**[dForce](https://dforce.network/)**
 +**[DeerFi](https://deerfi.com/)**
 +**[YFII](https://yfii.finance/#/)**
 +**[FLuidity]**
 +**[CampFire]**
-
-
-
 
