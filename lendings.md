@@ -97,91 +97,91 @@
 # Популярные лендинги на чейнах
 
 ## Polygon
-**[mantra Dao](https://mantradao.com)** 
-**[UniLend](https://unilend.finance/)** 
-**[C.R.E.A.M.](https://app.cream.finance/)** 
-**[bZx](https://bzx.network/)** 
-**[wePiggy](https://wepiggy.com)** 
-**[MyConstant]()** 
-**[Stater]()**
-**[Royale]()**
-**[Channels]()**
-**[Taker]()**
-**[easyfi]()**
-**[ForTube]()**
-**[Inverse Finance]()**
-**[plasmafinance]()**
++**[mantra Dao](https://mantradao.com)** 
++**[UniLend](https://unilend.finance/)** 
++**[C.R.E.A.M.](https://app.cream.finance/)** 
++**[bZx](https://bzx.network/)** 
++**[wePiggy](https://wepiggy.com)** 
++**[MyConstant]()** 
++**[Stater]()**
++**[Royale]()**
++**[Channels]()**
++**[Taker]()**
++**[easyfi]()**
++**[ForTube]()**
++**[Inverse Finance]()**
++**[plasmafinance]()**
 
 ## Solana
-**[Oxygen](https://www.oxygen.org)**
-**[Apricot](https://apricot.one/#/)**
-**[Zero Interest](https://www.zeropercenter.org)**
-**[Port](https://t.co/klocNW2iLw?amp=1)**
-**[Jet](https://www.jetprotocol.io/)**
-**[Solaris](https://solarisprotocol.com/)**
-**[Larix]()**
-**[Solend](https://solend.fi/)**
-**[Oyster Lending](https://github.com/solana-labs/oyster-lending)**
++**[Oxygen](https://www.oxygen.org)**
++**[Apricot](https://apricot.one/#/)**
++**[Zero Interest](https://www.zeropercenter.org)**
++**[Port](https://t.co/klocNW2iLw?amp=1)**
++**[Jet](https://www.jetprotocol.io/)**
++**[Solaris](https://solarisprotocol.com/)**
++**[Larix]()**
++**[Solend](https://solend.fi/)**
++**[Oyster Lending](https://github.com/solana-labs/oyster-lending)**
 
 ## Fantom
-**[C.R.E.A.M.]()**
-**[Aquarius]()**
-**[Abracadabra.money]()**
-**[liquity]()**
-**[Scream]()**
-**[Tarot]()**
++**[C.R.E.A.M.]()**
++**[Aquarius]()**
++**[Abracadabra.money]()**
++**[liquity]()**
++**[Scream]()**
++**[Tarot]()**
 
 ## Avalnache
-**[AAVE]()**
-**[bZx](https://bzx.network/)**
-**[BenQi]()**
-**[Reef]()**
-**[Bifrost]()**
-**[Marginswap]()**
-**[Avalanche-X]()**
++**[AAVE]()**
++**[bZx](https://bzx.network/)**
++**[BenQi]()**
++**[Reef]()**
++**[Bifrost]()**
++**[Marginswap]()**
++**[Avalanche-X]()**
 
 ## Near
-**[DeFiner]()**
-**[OIN]()**
-**[Ruler]()**
++**[DeFiner]()**
++**[OIN]()**
++**[Ruler]()**
 
 ## Polkadot
-**[Acala](https://acala.network/)**
-**[Relite](https://www.relite.finance/)**
-**[Bandot](https://github.com/bandotio/unsecured-lending/tree/delegate)**
-**[Konomi]()**
++**[Acala](https://acala.network/)**
++**[Relite](https://www.relite.finance/)**
++**[Bandot](https://github.com/bandotio/unsecured-lending/tree/delegate)**
++**[Konomi]()**
 
 ## Cardano
-**[Meld]()**
-**[AADA]()**
-**[Liqwid]()**
-**[Kitty Party]()**
++**[Meld]()**
++**[AADA]()**
++**[Liqwid]()**
++**[Kitty Party]()**
 
 ## BSC
-**[C.R.E.A.M.](https://cream.finance/)**
-**[ForTube](https://for.tube/)**
-**[bZx](https://bzx.network/)**
-**[BiFi](https://beefy.finance/)**
-**[Venus](https://venus.finance/)**
-**[Spartan Protocol](https://spartanprotocol.org/)**
-**[Fortress](https://www.fortress.loans/)**
-**[CashCow](https://bsc.cashcow.finance/)**
-**[Multiplier](https://multiplier.finance/)**
-**[Piggy]()**
-**[FarSwap](https://bsc.farswap.finance/)**
-**[easyfi]()**
-**[Klend]()**
-**[wePiggy](https://wepiggy.com)**
-**[UniLend]()**
-**[Flux]()**
-**[Defi For You]()**
-**[#Dev]()**
-**[Alpaca Finance](https://www.alpacafinance.org/)**
-**[dForce]()**
-**[DeerFi]()**
-**[YFII]()**
-**[FLuidity]()**
-**[Camp Fire]()**
++**[C.R.E.A.M.](https://cream.finance/)**
++**[ForTube](https://for.tube/)**
++**[bZx](https://bzx.network/)**
++**[BiFi](https://beefy.finance/)**
++**[Venus](https://venus.finance/)**
++**[Spartan Protocol](https://spartanprotocol.org/)**
++**[Fortress](https://www.fortress.loans/)**
++**[CashCow](https://bsc.cashcow.finance/)**
++**[Multiplier](https://multiplier.finance/)**
++**[Piggy]()**
++**[FarSwap](https://bsc.farswap.finance/)**
++**[easyfi]()**
++**[Klend]()**
++**[wePiggy](https://wepiggy.com)**
++**[UniLend]()**
++**[Flux2](https://v2.flux.01.finance/)**
++**[Defi For You]()**
++**[#Dev]()**
++**[Alpaca Finance](https://www.alpacafinance.org/)**
++**[dForce](https://dforce.network/)**
++**[DeerFi](https://deerfi.com/)**
++**[YFII](https://yfii.finance/#/)**
++**[FLuidity]**
++**[CampFire]**
 
 
 
