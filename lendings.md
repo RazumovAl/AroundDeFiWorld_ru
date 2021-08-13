@@ -153,10 +153,12 @@
 +**[Konomi]**
 
 ## Cardano
-+**[Meld]**
-+**[AADA]**
-+**[Liqwid]**
++**[Meld](https://www.meld.com/)**
++**[AADA](https://aada.finance/)**
++**[Liqwid](https://www.liqwid.finance/)**
 +**[Kitty Party]**
++**[Nexo](https://nexo.io/)**
++**[Paribus]()**
 
 ## BSC
 +**[C.R.E.A.M.](https://cream.finance/)**
